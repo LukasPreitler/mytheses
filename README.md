@@ -1,2 +1,2 @@
 # mytheses
-You are welcome to read my bachelor and mastertheses
+You are welcome to read my bachelor and master theses
