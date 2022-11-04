@@ -1,2 +1,2 @@
 # mytheses
-Storage of my bachelor and masterthises
+You are welcome to read my bachelor and mastertheses
