@@ -2,12 +2,12 @@
 You are welcome to read my bachelor and master theses
 
 ## Economics theses
-I have written three theses, two bachelor theses and one master these during my studies at KF UNI Graz
+I have written three theses, two bachelor theses and one master thesis during my studies at KF UNI Graz
 
 ### Macht der Strafe in der Spieltheorie (in German)
 What is needed to make sure that everyone cooperates? In the gaming theory is clear two tit-for-tat.
 
-filename: 20130404_strafe_spieltheorie
+Filename: 20130404_strafe_spieltheorie
 
  
 ### Was uns der Außenhandel über die Entwicklung von Faktorpreise sagen kann; Das Deardorff-Steiger-Modell (in German)
@@ -22,10 +22,11 @@ I code the model in R.
 
 Filename: 20181220_Austrian_Laffer_Curve
 
-## Software Developing these
+## Software Developing thesis
 
 ### Unterrichtet unsere Schule Seximus?;Eine Analyse der zugänglichen Unterrichtsliteratur für österreichische
 Schulen mittels neuronalen Netzwerken (In German)
-This work look for sexism patterns in schoolbooks. Therefore, I use a neutral network and WEAT tests. 
+This work look for sexism patterns in schoolbooks. Therefore, I use a neuronal network and WEAT tests. 
+More details are in the gender bias repo: github.com/LukasPreitler/genderbias
 
 Filename: 20220902_Schulliteratur_Sexismus
